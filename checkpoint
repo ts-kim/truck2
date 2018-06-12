@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\USER\\audiosurf\\pygta5-car-0.001-alexnetv2-8-epochs.model"
+all_model_checkpoint_paths: "C:\\Users\\USER\\audiosurf\\pygta5-car-0.001-alexnetv2-8-epochs.model"
